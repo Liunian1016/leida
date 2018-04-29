@@ -33,7 +33,6 @@ make install
 
 git clone https://github.com/Liunian1016/leida.git
 cd leida/
-
 npm i
 npm i -g pino
 npm install -g forever
